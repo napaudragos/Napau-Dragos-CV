@@ -2,7 +2,6 @@
 
 # 📄 Dragos Năpău — Curriculum Vitae
 
-Pasionat de **Automatizări Industriale, SCADA & IIoT**  
 Student la Universitatea Politehnica Timișoara | Facultatea de Automatică și Calculatoare (CTI)
 
 ---
